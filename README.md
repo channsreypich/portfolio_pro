@@ -1,4 +1,4 @@
-# Modern Dynamic Portfolio • Channak Som
+# Modern Dynamic Portfolio • Chhun Chansreypich
 
 > **Computer Science Student & Full-Stack Software Developer**  
 > **Korea Software HRD Center**: Basic Course Graduate (Full-Stack Web Dev) • AX-Professional Course Enrolled (AI Engineering & Data Analytics)
